@@ -1,1 +1,2 @@
 # py-heroku
+This is mainly a proof of concept that I'm able to deploy a flask project to Heroku. I've been having trouble with it on previous projects. Working off the first part of this tutorial(https://realpython.com/flask-by-example-part-1-project-setup/)
